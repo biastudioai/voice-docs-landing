@@ -794,8 +794,3 @@ st.markdown("""
     </div>
 </footer>
 """, unsafe_allow_html=True)
-
-# Crear un archivo requirements.txt para instalar las dependencias
-<lov-write file_path="requirements.txt">
-streamlit==1.34.0
-pillow==10.2.0
